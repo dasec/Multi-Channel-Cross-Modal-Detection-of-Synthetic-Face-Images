@@ -1,0 +1,1 @@
+# Multi-Channel-Cross-Modal-Detection-of-Synthetic-Face-Images
