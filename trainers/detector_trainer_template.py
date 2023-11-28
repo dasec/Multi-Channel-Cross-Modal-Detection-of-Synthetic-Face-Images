@@ -104,7 +104,7 @@ class TrainerConfig():
             self.dataset[phase] = CustomSynthImageLoader(self.DATA_DIR, 
                                 os.path.join(self.PROTOCOL_DIR, self.PROTOCOL_NAME, phase_files[phase]),
                                 img_transform[phase],
-                                custom_trasform = custom_function,
+                                custom_transform = custom_function,
                                 is_train=True)
 
         # Load the architecture
