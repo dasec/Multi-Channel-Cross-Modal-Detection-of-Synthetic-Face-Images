@@ -68,7 +68,14 @@ If you find this useful for your research, please consider citing the paper:
 **Multi-Channel Cross Modal Detection of Synthetic Face Images**:
 
 ```
-TBA
+@article{Ibsen-MultiChanellCrossModalDetectionOfSyntheticFaceImages-arxiv-2023,
+	title        = {Multi-Channel Cross Modal Detection of Synthetic Face Images},
+	author       = {M. Ibsen and C. Rathgeb and S. Marcel and C. Busch},
+	year         = 2023,
+	month        = 11,
+	journal      = {arXiv e-prints},
+	pages        = {arXiv:2311.16773}
+}
 ```
 
 
