@@ -20,6 +20,7 @@ To use this repository you will need:
 * Scipy
 * Torchvision
 * Pillow
+* TensorBoard
 
 Ideally, you should make sure that torch is installed with gpu support. For this follow the official installation guide. 
 The repository was tested using Python 3.8.16 and the versions specified in the requirements.txt file. 
