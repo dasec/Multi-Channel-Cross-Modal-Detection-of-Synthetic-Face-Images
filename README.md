@@ -1,5 +1,5 @@
 # Multi-Channel-Cross-Modal-Detection-of-Synthetic-Face-Images
-** <Accepted to the 12th IEEE International Workshop on Biometrics and Forensics> ** 
+**Accepted to the 12th IEEE International Workshop on Biometrics and Forensics** 
 
 ## Introduction
 This repository contains an official re-implementation of the approach described in the paper "Multi-Channel Cross Modal Detection of Synthetic Face Images" in PyTorch.
