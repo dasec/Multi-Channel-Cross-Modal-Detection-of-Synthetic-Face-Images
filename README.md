@@ -1,4 +1,5 @@
 # Multi-Channel-Cross-Modal-Detection-of-Synthetic-Face-Images
+** <Accepted to the 12th IEEE International Workshop on Biometrics and Forensics> ** 
 
 ## Introduction
 This repository contains an official re-implementation of the approach described in the paper "Multi-Channel Cross Modal Detection of Synthetic Face Images" in PyTorch.
@@ -69,13 +70,11 @@ If you find this useful for your research, please consider citing the paper:
 **Multi-Channel Cross Modal Detection of Synthetic Face Images**:
 
 ```
-@article{Ibsen-MultiChanellCrossModalDetectionOfSyntheticFaceImages-arxiv-2023,
-	title        = {Multi-Channel Cross Modal Detection of Synthetic Face Images},
-	author       = {M. Ibsen and C. Rathgeb and S. Marcel and C. Busch},
-	year         = 2023,
-	month        = 11,
-	journal      = {arXiv e-prints},
-	pages        = {arXiv:2311.16773}
+@inproceedings{Ibsen-CrossModalDetectionSynthFaces-IWBF-2024,
+ Author = {M. Ibsen and C. Rathgeb and S. Marcel and C. Busch},
+ Booktitle = {Intl. Workshop on Biometrics and Forensics (IWBF)},
+ Title = {Multi-Channel Cross Modal Detection of Synthetic Face Images},
+ Year = {2024},
 }
 ```
 
@@ -121,10 +120,11 @@ Additionally, consider citing the following works:
 **CNN-generated images are surprisingly easy to spot...for now**:
 
 ```
-@inproceedings{georgecvpr2021,
-    author = {Anjith George and Sebastien Marcel},
-    title = {Cross Modal Focal Loss for RGBD Face Anti-Spoofing},
-    year = {2021},
-    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+@inproceedings{Wang-CNNGeneratedImagesAreSurprisinglyEasyToSpotForNow-CVPR-2020,
+	title        = {{CNN}-generated images are surprisingly easy to spot... for now},
+	author       = {S-Y. Wang and O. Wang and R. Zhang and A. Owens and A. A. Efros},
+	year         = {2020},
+	booktitle      = {{IEEE}/{CVF} Conf. on Computer Vision and Pattern Recognition ({CVPR})},
+	pages        = {8692--8701}
 }
 ```
